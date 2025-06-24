@@ -1,4 +1,4 @@
 @Controller
 public class UserController{
-    
+
 }
